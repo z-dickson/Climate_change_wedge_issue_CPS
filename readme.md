@@ -1,7 +1,5 @@
----
-title: "Replication for *Going against the Grain: Climate Change as a Wedge Issue for the Radical Right*"
-format: pdf
----
+
+# Replication for *Going against the Grain: Climate Change as a Wedge Issue for the Radical Right*"
 
 ## Instructions
 

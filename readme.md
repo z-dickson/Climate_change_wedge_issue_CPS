@@ -1,9 +1,18 @@
+---
+format:
+  pdf
+---
 
-# Replication for *Going against the Grain: Climate Change as a Wedge Issue for the Radical Right*"
+
+## Replication for *Going against the Grain: Climate Change as a Wedge Issue for the Radical Right*
+
+**Journal:** [*Comparative Political Studies*](https://journals.sagepub.com/home/cps)
+
+**Authors:** [Zachary Dickson](https://z-dickson.github.io/) and [Sara Hobolt](https://hobolt.com/)
 
 ## Instructions
 
-This repository contains the replication files for the the paper "Going against the Grain: Climate Change as a Wedge Issue for the Radical Right" by [Zachary Dickson](https://z-dickson.github.io/) and [Sara Hobolt](https://hobolt.com/) The paper is forthcoming in *Comparative Political Studies*.
+This repository contains the replication files for the the paper *Going against the Grain: Climate Change as a Wedge Issue for the Radical Right*.
 
 To replicate the analysis, users will need to have [Python](https://www.python.org/) and [Jupyter](https://jupyter.org/) installed on their machine. [Anaconda](https://anaconda.org/anaconda/python) provides a convenient way to install both.
 
@@ -46,7 +55,7 @@ We included an abbreviated version of the Party Press Release dataset in the `da
 
 ## Language Model 
 
-We use two language models in the analysis. The first is a classification model and is publicly available on the Huggingface model hub [https://huggingface.co/z-dickson/CAP_multilingual](https://huggingface.co/z-dickson/CAP_multilingual). The second is a generative model and is publicly available on the Huggingface model hub [https://huggingface.co/z-dickson/bart-large-cnn-climate-change-summarization](https://huggingface.co/z-dickson/bart-large-cnn-climate-change-summarization). The models can be accessed using the following code:
+We use two language models in the analysis. The first is a classification model and is publicly available on the Huggingface model hub ([https://huggingface.co/z-dickson/CAP_multilingual](https://huggingface.co/z-dickson/CAP_multilingual)). The second is a generative model and is publicly available on the Huggingface model hub ([https://huggingface.co/z-dickson/bart-large-cnn-climate-change-summarization](https://huggingface.co/z-dickson/bart-large-cnn-climate-change-summarization)). The models can be accessed using the following code:
 
 **Classification Model:**
 
